@@ -1,8 +1,9 @@
 # Milestone1
-# Text Processing and Statistical Analysis Project
 
 ## Author
 Lingran Zhang
+CPSC2231L 01 Programming Workshop Lab
+2024Fall
 
 
 ## Overview
