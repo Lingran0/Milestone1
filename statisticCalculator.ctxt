@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=statisticCalculator
-comment1.params=content
-comment1.target=int\ calculateWords(java.lang.String)
-comment2.params=content
-comment2.target=int\ calculateStatements(java.lang.String)
-comment3.params=content
-comment3.target=java.util.Map\ calculateWordFrequency(java.lang.String)
-numComments=4
