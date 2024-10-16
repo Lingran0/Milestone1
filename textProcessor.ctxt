@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=textProcessor
+comment1.params=stopWordsFilePath
+comment1.target=textProcessor(java.lang.String)
+comment2.params=filePath
+comment2.target=void\ loadStopWords(java.lang.String)
+comment3.params=filePath
+comment3.target=java.lang.String\ readFile(java.lang.String)
+comment4.params=content
+comment4.target=java.lang.String\ removeStopWords(java.lang.String)
+numComments=5
