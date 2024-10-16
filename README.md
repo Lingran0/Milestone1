@@ -1,6 +1,10 @@
 # Milestone1
 # Text Processing and Statistical Analysis Project
 
+## Author
+Lingran Zhang
+
+
 ## Overview
 
 This Java project performs text processing and statistical analysis on text files. The project allows users to remove stop words from a text file, calculate basic statistics like word count and sentence count, and rank words by their frequency.
