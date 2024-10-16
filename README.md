@@ -9,6 +9,9 @@ Lingran Zhang
 
 This Java project performs text processing and statistical analysis on text files. The project allows users to remove stop words from a text file, calculate basic statistics like word count and sentence count, and rank words by their frequency.
 
+## UML Diagram
+![UML Diagram](https://raw.githubusercontent.com/Lingran0/Milestone1/main/UML%20diagram.png)
+
 ## Why This Project Is Useful
 The project is useful for:
 - Cleaning and preparing textual data by eliminating common stop words.
